@@ -23,7 +23,7 @@ public class PostcallBDD {
 		// Request paylaod sending along with post request
 		JSONObject requestParams = new JSONObject();
 
-		requestParams.put("name", "testXYZ");
+		requestParams.put("name", "testXYZ45");
 		requestParams.put("salary", "23457");
 		requestParams.put("age", "26");
 
